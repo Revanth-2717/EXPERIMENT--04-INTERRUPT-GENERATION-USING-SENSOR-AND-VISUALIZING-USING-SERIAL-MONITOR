@@ -168,14 +168,11 @@ PUTCHAR_PROTOTYPE{
 
 ## Output screen shots of serial port utility   :
  
- <img width="1919" height="987" alt="Screenshot 2025-09-15 110740" src="https://github.com/user-attachments/assets/19c280a1-d3eb-4646-8a22-986804a0eeab" />
+ ![WhatsApp Image 2025-09-20 at 15 34 38_de7b8cc1](https://github.com/user-attachments/assets/003d36b1-c06d-4ecb-aa24-3d4da183e29e)
 
 ## Circuit board :
- ### NO INTERRUPT
- ![IOT EX4 1](https://github.com/user-attachments/assets/c99b90f6-7cf1-4dad-932c-3980ea602a72)
+ <img width="645" height="765" alt="491867363-54c94bd0-e141-4b67-ace7-f71fc164be8e" src="https://github.com/user-attachments/assets/bc8cf908-182b-4325-9d77-659c399a3ecf" />
 
-### INTERRUPT
- ![IOT EX 4 2](https://github.com/user-attachments/assets/773e2549-a226-4cd3-9728-1b67e60cbfe3)
 
 ## Result :
 Interfacing a  IR SENSOR and interrupt is generated using external interrupt mode , visualized on serial port 
